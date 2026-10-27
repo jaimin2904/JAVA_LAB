@@ -47,5 +47,3 @@ Accounts stay in memory only while the program is running. Restarting the applic
 11. Serializable state, transaction logs, and report generation as separate examples.
 12. HashMap/ConcurrentHashMap, ArrayList, Comparable and Comparator sorting examples.
 13. Generic Repository, `@Id` reflection, SafeVarargs, and bounded generic average examples.
-
-Practical 14's integrated BankService, menu wiring to persistence/reports, and JUnit integration test have been removed from this final simple version.
