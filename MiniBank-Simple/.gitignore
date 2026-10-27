@@ -1,0 +1,5 @@
+out/
+sources.txt
+data/*.dat
+data/*.txt
+data/logs/*.log
